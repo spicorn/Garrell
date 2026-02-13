@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://spicorn.github.io/spicorn/Kazen",
+  "homepage": "https://spicorn.github.io/spicorn/Garrell",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
