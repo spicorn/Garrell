@@ -364,7 +364,7 @@ useEffect(() => {
               <div className="flex items-center gap-3 mb-4">
                
                 <div className="feature-badge">💖</div>
-                <span className="text-sm uppercase tracking-wide text-pink-200 font-semibold ">Dear  Babe</span>
+                <span className="text-sm uppercase tracking-wide text-pink-200 font-semibold ">Dear  Rachel</span>
               </div>
 
               
@@ -388,7 +388,7 @@ useEffect(() => {
 
                     And maybe one day when you read this again, I want you to remember, I did not love you for how beautiful you are, though you are breathtaking, I loved you for how you made me feel. For how you looked at me like I was enough. For how you stood by me when you did not have to. For how you loved me even when I did not love myself enough.
 
-                    So if ever you doubt it even for a second just know this, you have changed me in ways I can never explain. You have made me softer, kinder, better and l am yet to change and learn more. And if my life were to end tomorrow, I would go knowing that I truly lived....because I got to love you Babe.
+                    So if ever you doubt it even for a second just know this, you have changed me in ways I can never explain. You have made me softer, kinder, better and l am yet to change and learn more. And if my life were to end tomorrow, I would go knowing that I truly lived....because I got to love you Rachel.
                   </p>
 
                   <div className="pointer-events-none absolute inset-0 text-2xl">
@@ -472,7 +472,7 @@ useEffect(() => {
 
           <div className="mt-6 flex justify-center gap-4 subtle-emoji text-3xl">
             <span>🌹</span>
-            <span>Babe</span>
+            <span>Rachel</span>
             <span>🌹</span>
           </div>
           
